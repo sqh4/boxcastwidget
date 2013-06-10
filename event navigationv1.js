@@ -1,4 +1,4 @@
-<div id="boxcast-widget-Rexj6cOynQPfuSv8Zp4C"><script type="text/javascript"> var s = document.createElement("script"); var h = (("https:" == document.location.protocol) ? "https:" : "http:"); s.src = h + "//boxcast.com/widget/Rexj6cOynQPfuSv8Zp4C.js?title=1&description=1&history=1&player_width=720&player_height=480"; document.getElementsByTagName("head")[0].appendChild(s); </script></div>
+<div id="boxcast-widget-YOUR_BOXCAST_ID"><script type="text/javascript"> var s = document.createElement("script"); var h = (("https:" == document.location.protocol) ? "https:" : "http:"); s.src = h + "//boxcast.com/widget/YOUR_BOXCAST_ID.js?title=1&description=1&history=1"; document.getElementsByTagName("head")[0].appendChild(s); </script></div>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
 
